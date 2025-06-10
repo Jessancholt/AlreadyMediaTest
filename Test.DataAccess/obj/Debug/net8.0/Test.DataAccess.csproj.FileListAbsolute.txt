@@ -1,0 +1,17 @@
+C:\Projects\AlreadyMediaTest\Test.DataAccess\bin\Debug\net8.0\Test.DataAccess.deps.json
+C:\Projects\AlreadyMediaTest\Test.DataAccess\bin\Debug\net8.0\Test.DataAccess.dll
+C:\Projects\AlreadyMediaTest\Test.DataAccess\bin\Debug\net8.0\Test.DataAccess.pdb
+C:\Projects\AlreadyMediaTest\Test.DataAccess\obj\Debug\net8.0\Test.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AlreadyMediaTest\Test.DataAccess\obj\Debug\net8.0\Test.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\AlreadyMediaTest\Test.DataAccess\obj\Debug\net8.0\Test.DataAccess.AssemblyInfo.cs
+C:\Projects\AlreadyMediaTest\Test.DataAccess\obj\Debug\net8.0\Test.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\AlreadyMediaTest\Test.DataAccess\obj\Debug\net8.0\Test.DataAccess.dll
+C:\Projects\AlreadyMediaTest\Test.DataAccess\obj\Debug\net8.0\refint\Test.DataAccess.dll
+C:\Projects\AlreadyMediaTest\Test.DataAccess\obj\Debug\net8.0\Test.DataAccess.pdb
+C:\Projects\AlreadyMediaTest\Test.DataAccess\obj\Debug\net8.0\ref\Test.DataAccess.dll
+C:\Projects\AlreadyMediaTest\Test.DataAccess\obj\Debug\net8.0\Test.DataAccess.csproj.AssemblyReference.cache
+C:\Projects\AlreadyMediaTest\Test.DataAccess\bin\Debug\net8.0\Test.DataAccess.runtimeconfig.json
+C:\Projects\AlreadyMediaTest\Test.DataAccess\obj\Debug\net8.0\Test.DataAccess.genruntimeconfig.cache
+C:\Projects\AlreadyMediaTest\Test.DataAccess\bin\Debug\net8.0\Test.Shared.dll
+C:\Projects\AlreadyMediaTest\Test.DataAccess\bin\Debug\net8.0\Test.Shared.pdb
+C:\Projects\AlreadyMediaTest\Test.DataAccess\obj\Debug\net8.0\Test.Dat.BDD6E7C9.Up2Date

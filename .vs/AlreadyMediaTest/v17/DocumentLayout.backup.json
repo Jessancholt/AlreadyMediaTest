@@ -1,0 +1,878 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\AlreadyMediaTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\backgroundservices\\datasetbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\backgroundservices\\datasetbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\services\\meteoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\services\\meteoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\models\\meteoritecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\models\\meteoritecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\models\\meteoritesfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\models\\meteoritesfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\models\\predefined\\sortingconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\models\\predefined\\sortingconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\models\\predefined\\cacheconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\models\\predefined\\cacheconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\storages\\interfaces\\ifinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\storages\\interfaces\\ifinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\storages\\finder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\storages\\finder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\models\\changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\models\\changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\services\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\services\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\configurations\\coreconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\configurations\\coreconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\converters\\meteoriteconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\converters\\meteoriteconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\configurations\\cacheoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\configurations\\cacheoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\configurations\\backgroundoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\configurations\\backgroundoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\entities\\meteorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\entities\\meteorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|c:\\projects\\alreadymediatest\\test.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|solutionrelative:test.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|c:\\projects\\alreadymediatest\\test.webapi\\controllers\\meteoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|solutionrelative:test.webapi\\controllers\\meteoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|c:\\projects\\alreadymediatest\\test.webapi\\configurations\\webappextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|solutionrelative:test.webapi\\configurations\\webappextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|c:\\projects\\alreadymediatest\\test.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|solutionrelative:test.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADAD666-273B-4F63-AD72-34174432A15D}|Test.Shared\\Test.Shared.csproj|c:\\projects\\alreadymediatest\\test.shared\\configurations\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADAD666-273B-4F63-AD72-34174432A15D}|Test.Shared\\Test.Shared.csproj|solutionrelative:test.shared\\configurations\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|c:\\projects\\alreadymediatest\\test.webapi\\configurations\\serveroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|solutionrelative:test.webapi\\configurations\\serveroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|c:\\projects\\alreadymediatest\\test.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|solutionrelative:test.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|c:\\projects\\alreadymediatest\\test.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|solutionrelative:test.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\configurations\\dataaccessconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\configurations\\dataaccessconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|c:\\projects\\alreadymediatest\\test.webapi\\configurations\\exceptionconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|solutionrelative:test.webapi\\configurations\\exceptionconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\services\\interfaces\\imeteoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\services\\interfaces\\imeteoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\entities\\predefined\\falltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\entities\\predefined\\falltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|c:\\projects\\alreadymediatest\\test.webapi\\test.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|solutionrelative:test.webapi\\test.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\storages\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\storages\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADAD666-273B-4F63-AD72-34174432A15D}|Test.Shared\\Test.Shared.csproj|c:\\projects\\alreadymediatest\\test.shared\\test.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1ADAD666-273B-4F63-AD72-34174432A15D}|Test.Shared\\Test.Shared.csproj|solutionrelative:test.shared\\test.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\test.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\test.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B134253E-91C9-4847-9828-43D54591CA70}|Test.DatasetClient\\Test.DatasetClient.csproj|c:\\projects\\alreadymediatest\\test.datasetclient\\configurations\\datasetclientoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B134253E-91C9-4847-9828-43D54591CA70}|Test.DatasetClient\\Test.DatasetClient.csproj|solutionrelative:test.datasetclient\\configurations\\datasetclientoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B134253E-91C9-4847-9828-43D54591CA70}|Test.DatasetClient\\Test.DatasetClient.csproj|c:\\projects\\alreadymediatest\\test.datasetclient\\clients\\nasadatasetclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B134253E-91C9-4847-9828-43D54591CA70}|Test.DatasetClient\\Test.DatasetClient.csproj|solutionrelative:test.datasetclient\\clients\\nasadatasetclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B134253E-91C9-4847-9828-43D54591CA70}|Test.DatasetClient\\Test.DatasetClient.csproj|c:\\projects\\alreadymediatest\\test.datasetclient\\configurations\\datasetclientconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B134253E-91C9-4847-9828-43D54591CA70}|Test.DatasetClient\\Test.DatasetClient.csproj|solutionrelative:test.datasetclient\\configurations\\datasetclientconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\storages\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\storages\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\storages\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\storages\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\storages\\interfaces\\idataaccessobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\storages\\interfaces\\idataaccessobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|c:\\projects\\alreadymediatest\\test.core\\test.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{044EBB31-C474-46F1-8CDE-910C15189E0F}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\test.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|c:\\projects\\alreadymediatest\\test.webapi\\configurations\\validationconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|solutionrelative:test.webapi\\configurations\\validationconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|c:\\projects\\alreadymediatest\\test.webapi\\configurations\\swaggerconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9400B4-4E05-4633-80BC-C89D6B29B763}|Test.WebAPI\\Test.WebAPI.csproj|solutionrelative:test.webapi\\configurations\\swaggerconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\storages\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\storages\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B134253E-91C9-4847-9828-43D54591CA70}|Test.DatasetClient\\Test.DatasetClient.csproj|c:\\projects\\alreadymediatest\\test.datasetclient\\models\\datasetresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B134253E-91C9-4847-9828-43D54591CA70}|Test.DatasetClient\\Test.DatasetClient.csproj|solutionrelative:test.datasetclient\\models\\datasetresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\configurations\\dboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\configurations\\dboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B134253E-91C9-4847-9828-43D54591CA70}|Test.DatasetClient\\Test.DatasetClient.csproj|c:\\projects\\alreadymediatest\\test.datasetclient\\test.datasetclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B134253E-91C9-4847-9828-43D54591CA70}|Test.DatasetClient\\Test.DatasetClient.csproj|solutionrelative:test.datasetclient\\test.datasetclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B134253E-91C9-4847-9828-43D54591CA70}|Test.DatasetClient\\Test.DatasetClient.csproj|c:\\projects\\alreadymediatest\\test.datasetclient\\clients\\interfaces\\inasadatasetclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B134253E-91C9-4847-9828-43D54591CA70}|Test.DatasetClient\\Test.DatasetClient.csproj|solutionrelative:test.datasetclient\\clients\\interfaces\\inasadatasetclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADAD666-273B-4F63-AD72-34174432A15D}|Test.Shared\\Test.Shared.csproj|c:\\projects\\alreadymediatest\\test.shared\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADAD666-273B-4F63-AD72-34174432A15D}|Test.Shared\\Test.Shared.csproj|solutionrelative:test.shared\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADAD666-273B-4F63-AD72-34174432A15D}|Test.Shared\\Test.Shared.csproj|c:\\projects\\alreadymediatest\\test.shared\\exceptions\\coreexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADAD666-273B-4F63-AD72-34174432A15D}|Test.Shared\\Test.Shared.csproj|solutionrelative:test.shared\\exceptions\\coreexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|c:\\projects\\alreadymediatest\\test.dataaccess\\migrations\\20250610155947_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91E243-A4DF-46E0-BB82-A229BCF6D32C}|Test.DataAccess\\Test.DataAccess.csproj|solutionrelative:test.dataaccess\\migrations\\20250610155947_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortingConstants.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Models\\Predefined\\SortingConstants.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Models\\Predefined\\SortingConstants.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Models\\Predefined\\SortingConstants.cs",
+              "RelativeToolTip": "Test.Core\\Models\\Predefined\\SortingConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:26:55.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeteoriteService.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Services\\MeteoriteService.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Services\\MeteoriteService.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Services\\MeteoriteService.cs",
+              "RelativeToolTip": "Test.Core\\Services\\MeteoriteService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwDMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T21:00:04.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Changes.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Models\\Changes.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Models\\Changes.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Models\\Changes.cs",
+              "RelativeToolTip": "Test.Core\\Models\\Changes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:03:21.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeteoriteContext.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Models\\MeteoriteContext.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Models\\MeteoriteContext.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Models\\MeteoriteContext.cs",
+              "RelativeToolTip": "Test.Core\\Models\\MeteoriteContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:16:45.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Meteorite.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Entities\\Meteorite.cs",
+              "RelativeDocumentMoniker": "Test.DataAccess\\Entities\\Meteorite.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Entities\\Meteorite.cs",
+              "RelativeToolTip": "Test.DataAccess\\Entities\\Meteorite.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:31:07.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CacheConstants.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Models\\Predefined\\CacheConstants.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Models\\Predefined\\CacheConstants.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Models\\Predefined\\CacheConstants.cs",
+              "RelativeToolTip": "Test.Core\\Models\\Predefined\\CacheConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:39:27.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAABkAAAAAAAAAAAAawDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-08T20:48:51.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatasetBackgroundService.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\BackgroundServices\\DatasetBackgroundService.cs",
+              "RelativeDocumentMoniker": "Test.Core\\BackgroundServices\\DatasetBackgroundService.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\BackgroundServices\\DatasetBackgroundService.cs",
+              "RelativeToolTip": "Test.Core\\BackgroundServices\\DatasetBackgroundService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:28:47.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BackgroundOptions.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Configurations\\BackgroundOptions.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Configurations\\BackgroundOptions.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Configurations\\BackgroundOptions.cs",
+              "RelativeToolTip": "Test.Core\\Configurations\\BackgroundOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:30:37.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CacheOptions.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Configurations\\CacheOptions.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Configurations\\CacheOptions.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Configurations\\CacheOptions.cs",
+              "RelativeToolTip": "Test.Core\\Configurations\\CacheOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:18:52.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MeteoritesFilter.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Models\\MeteoritesFilter.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Models\\MeteoritesFilter.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Models\\MeteoritesFilter.cs*",
+              "RelativeToolTip": "Test.Core\\Models\\MeteoritesFilter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:29:47.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFinder.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Storages\\Interfaces\\IFinder.cs",
+              "RelativeDocumentMoniker": "Test.DataAccess\\Storages\\Interfaces\\IFinder.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Storages\\Interfaces\\IFinder.cs",
+              "RelativeToolTip": "Test.DataAccess\\Storages\\Interfaces\\IFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T21:23:40.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Finder.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Storages\\Finder.cs",
+              "RelativeDocumentMoniker": "Test.DataAccess\\Storages\\Finder.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Storages\\Finder.cs",
+              "RelativeToolTip": "Test.DataAccess\\Storages\\Finder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T21:23:07.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoreConfigurationExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Configurations\\CoreConfigurationExtensions.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Configurations\\CoreConfigurationExtensions.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Configurations\\CoreConfigurationExtensions.cs",
+              "RelativeToolTip": "Test.Core\\Configurations\\CoreConfigurationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:34:08.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Services\\Interfaces\\ICacheService.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Services\\Interfaces\\ICacheService.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Services\\Interfaces\\ICacheService.cs",
+              "RelativeToolTip": "Test.Core\\Services\\Interfaces\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:17:32.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeteoriteConverter.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Converters\\MeteoriteConverter.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Converters\\MeteoriteConverter.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Converters\\MeteoriteConverter.cs",
+              "RelativeToolTip": "Test.Core\\Converters\\MeteoriteConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:37:51.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Services\\CacheService.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Services\\CacheService.cs",
+              "RelativeToolTip": "Test.Core\\Services\\CacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:17:24.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Test.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Program.cs",
+              "RelativeToolTip": "Test.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:07:37.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebAppExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Configurations\\WebAppExtensions.cs",
+              "RelativeDocumentMoniker": "Test.WebAPI\\Configurations\\WebAppExtensions.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Configurations\\WebAppExtensions.cs",
+              "RelativeToolTip": "Test.WebAPI\\Configurations\\WebAppExtensions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T21:35:40.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MeteoriteController.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Controllers\\MeteoriteController.cs",
+              "RelativeDocumentMoniker": "Test.WebAPI\\Controllers\\MeteoriteController.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Controllers\\MeteoriteController.cs",
+              "RelativeToolTip": "Test.WebAPI\\Controllers\\MeteoriteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:03:17.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Shared\\Configurations\\Config.cs",
+              "RelativeDocumentMoniker": "Test.Shared\\Configurations\\Config.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Shared\\Configurations\\Config.cs",
+              "RelativeToolTip": "Test.Shared\\Configurations\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:36:32.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServerOptions.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Configurations\\ServerOptions.cs",
+              "RelativeDocumentMoniker": "Test.WebAPI\\Configurations\\ServerOptions.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Configurations\\ServerOptions.cs",
+              "RelativeToolTip": "Test.WebAPI\\Configurations\\ServerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T21:31:40.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Test.WebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "Test.WebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T22:36:04.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Test.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Test.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T20:20:43.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Test.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Test.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T21:02:43.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TestDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\TestDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Test.DataAccess\\TestDbContextFactory.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\TestDbContextFactory.cs",
+              "RelativeToolTip": "Test.DataAccess\\TestDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:31:30.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\appsettings.json",
+              "RelativeDocumentMoniker": "Test.DataAccess\\appsettings.json",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\appsettings.json",
+              "RelativeToolTip": "Test.DataAccess\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T15:57:33.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250610155947_Initial.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Migrations\\20250610155947_Initial.cs",
+              "RelativeDocumentMoniker": "Test.DataAccess\\Migrations\\20250610155947_Initial.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Migrations\\20250610155947_Initial.cs",
+              "RelativeToolTip": "Test.DataAccess\\Migrations\\20250610155947_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:59:47.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TestDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\TestDbContext.cs",
+              "RelativeDocumentMoniker": "Test.DataAccess\\TestDbContext.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\TestDbContext.cs",
+              "RelativeToolTip": "Test.DataAccess\\TestDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:14:44.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DataAccessConfigurationExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Configurations\\DataAccessConfigurationExtensions.cs",
+              "RelativeDocumentMoniker": "Test.DataAccess\\Configurations\\DataAccessConfigurationExtensions.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Configurations\\DataAccessConfigurationExtensions.cs",
+              "RelativeToolTip": "Test.DataAccess\\Configurations\\DataAccessConfigurationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:34:58.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExceptionConfigurationExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Configurations\\ExceptionConfigurationExtensions.cs",
+              "RelativeDocumentMoniker": "Test.WebAPI\\Configurations\\ExceptionConfigurationExtensions.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Configurations\\ExceptionConfigurationExtensions.cs",
+              "RelativeToolTip": "Test.WebAPI\\Configurations\\ExceptionConfigurationExtensions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:29:57.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IMeteoriteService.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Services\\Interfaces\\IMeteoriteService.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Services\\Interfaces\\IMeteoriteService.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Services\\Interfaces\\IMeteoriteService.cs",
+              "RelativeToolTip": "Test.Core\\Services\\Interfaces\\IMeteoriteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:32:18.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FallType.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Entities\\Predefined\\FallType.cs",
+              "RelativeDocumentMoniker": "Test.DataAccess\\Entities\\Predefined\\FallType.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Entities\\Predefined\\FallType.cs",
+              "RelativeToolTip": "Test.DataAccess\\Entities\\Predefined\\FallType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:57:38.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Storages\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Test.DataAccess\\Storages\\UnitOfWork.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Storages\\UnitOfWork.cs",
+              "RelativeToolTip": "Test.DataAccess\\Storages\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T21:23:23.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Test.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Test.DataAccess.csproj",
+              "RelativeDocumentMoniker": "Test.DataAccess\\Test.DataAccess.csproj",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Test.DataAccess.csproj",
+              "RelativeToolTip": "Test.DataAccess\\Test.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T20:13:51.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NasaDatasetClient.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DatasetClient\\Clients\\NasaDatasetClient.cs",
+              "RelativeDocumentMoniker": "Test.DatasetClient\\Clients\\NasaDatasetClient.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DatasetClient\\Clients\\NasaDatasetClient.cs",
+              "RelativeToolTip": "Test.DatasetClient\\Clients\\NasaDatasetClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:33:34.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Test.Shared.csproj",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Shared\\Test.Shared.csproj",
+              "RelativeDocumentMoniker": "Test.Shared\\Test.Shared.csproj",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Shared\\Test.Shared.csproj",
+              "RelativeToolTip": "Test.Shared\\Test.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T20:14:02.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Test.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Test.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Test.WebAPI\\Test.WebAPI.csproj",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Test.WebAPI.csproj",
+              "RelativeToolTip": "Test.WebAPI\\Test.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T20:14:06.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DatasetClientOptions.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DatasetClient\\Configurations\\DatasetClientOptions.cs",
+              "RelativeDocumentMoniker": "Test.DatasetClient\\Configurations\\DatasetClientOptions.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DatasetClient\\Configurations\\DatasetClientOptions.cs",
+              "RelativeToolTip": "Test.DatasetClient\\Configurations\\DatasetClientOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:32:31.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DatasetClientConfigurationExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DatasetClient\\Configurations\\DatasetClientConfigurationExtensions.cs",
+              "RelativeDocumentMoniker": "Test.DatasetClient\\Configurations\\DatasetClientConfigurationExtensions.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DatasetClient\\Configurations\\DatasetClientConfigurationExtensions.cs",
+              "RelativeToolTip": "Test.DatasetClient\\Configurations\\DatasetClientConfigurationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:15:47.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Test.Core.csproj",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Test.Core.csproj",
+              "RelativeDocumentMoniker": "Test.Core\\Test.Core.csproj",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Core\\Test.Core.csproj",
+              "RelativeToolTip": "Test.Core\\Test.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T12:29:29.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IDataAccessObject.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Storages\\Interfaces\\IDataAccessObject.cs",
+              "RelativeDocumentMoniker": "Test.DataAccess\\Storages\\Interfaces\\IDataAccessObject.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Storages\\Interfaces\\IDataAccessObject.cs",
+              "RelativeToolTip": "Test.DataAccess\\Storages\\Interfaces\\IDataAccessObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T20:09:57.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Storages\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Test.DataAccess\\Storages\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Storages\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Test.DataAccess\\Storages\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T21:04:14.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Storages\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Test.DataAccess\\Storages\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Storages\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Test.DataAccess\\Storages\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T21:23:34.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ValidationConfigurationExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Configurations\\ValidationConfigurationExtensions.cs",
+              "RelativeDocumentMoniker": "Test.WebAPI\\Configurations\\ValidationConfigurationExtensions.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Configurations\\ValidationConfigurationExtensions.cs",
+              "RelativeToolTip": "Test.WebAPI\\Configurations\\ValidationConfigurationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:04:25.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SwaggerConfigurationExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Configurations\\SwaggerConfigurationExtensions.cs",
+              "RelativeDocumentMoniker": "Test.WebAPI\\Configurations\\SwaggerConfigurationExtensions.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.WebAPI\\Configurations\\SwaggerConfigurationExtensions.cs",
+              "RelativeToolTip": "Test.WebAPI\\Configurations\\SwaggerConfigurationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:00:37.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Storages\\Repository.cs",
+              "RelativeDocumentMoniker": "Test.DataAccess\\Storages\\Repository.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Storages\\Repository.cs",
+              "RelativeToolTip": "Test.DataAccess\\Storages\\Repository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T21:03:52.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DatasetResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DatasetClient\\Models\\DatasetResponse.cs",
+              "RelativeDocumentMoniker": "Test.DatasetClient\\Models\\DatasetResponse.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DatasetClient\\Models\\DatasetResponse.cs",
+              "RelativeToolTip": "Test.DatasetClient\\Models\\DatasetResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:32:34.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DbOptions.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Configurations\\DbOptions.cs",
+              "RelativeDocumentMoniker": "Test.DataAccess\\Configurations\\DbOptions.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DataAccess\\Configurations\\DbOptions.cs",
+              "RelativeToolTip": "Test.DataAccess\\Configurations\\DbOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:30:27.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Test.DatasetClient.csproj",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DatasetClient\\Test.DatasetClient.csproj",
+              "RelativeDocumentMoniker": "Test.DatasetClient\\Test.DatasetClient.csproj",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DatasetClient\\Test.DatasetClient.csproj",
+              "RelativeToolTip": "Test.DatasetClient\\Test.DatasetClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T19:53:53.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "INasaDatasetClient.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.DatasetClient\\Clients\\Interfaces\\INasaDatasetClient.cs",
+              "RelativeDocumentMoniker": "Test.DatasetClient\\Clients\\Interfaces\\INasaDatasetClient.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.DatasetClient\\Clients\\Interfaces\\INasaDatasetClient.cs",
+              "RelativeToolTip": "Test.DatasetClient\\Clients\\Interfaces\\INasaDatasetClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:33:24.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Shared\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Test.Shared\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Shared\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Test.Shared\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:09:33.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CoreException.cs",
+              "DocumentMoniker": "C:\\Projects\\AlreadyMediaTest\\Test.Shared\\Exceptions\\CoreException.cs",
+              "RelativeDocumentMoniker": "Test.Shared\\Exceptions\\CoreException.cs",
+              "ToolTip": "C:\\Projects\\AlreadyMediaTest\\Test.Shared\\Exceptions\\CoreException.cs",
+              "RelativeToolTip": "Test.Shared\\Exceptions\\CoreException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:56:48.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

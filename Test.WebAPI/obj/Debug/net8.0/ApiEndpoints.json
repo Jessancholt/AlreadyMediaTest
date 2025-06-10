@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "Test.WebAPI.Controllers.MeteoriteController",
+    "Method": "GetAsync",
+    "RelativePath": "api/Meteorite/filter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filter",
+        "Type": "Test.Core.Models.MeteoritesFilter",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Test.Core.Models.MeteoriteContext",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ]
+  }
+]

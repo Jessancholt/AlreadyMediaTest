@@ -1,0 +1,15 @@
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\bin\Debug\net8.0\Test.DatasetClient.deps.json
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\bin\Debug\net8.0\Test.DatasetClient.dll
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\bin\Debug\net8.0\Test.DatasetClient.pdb
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\bin\Debug\net8.0\Test.Shared.dll
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\bin\Debug\net8.0\Test.Shared.pdb
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\obj\Debug\net8.0\Test.DatasetClient.csproj.AssemblyReference.cache
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\obj\Debug\net8.0\Test.DatasetClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\obj\Debug\net8.0\Test.DatasetClient.AssemblyInfoInputs.cache
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\obj\Debug\net8.0\Test.DatasetClient.AssemblyInfo.cs
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\obj\Debug\net8.0\Test.DatasetClient.csproj.CoreCompileInputs.cache
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\obj\Debug\net8.0\Test.Dat.54FAB2F8.Up2Date
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\obj\Debug\net8.0\Test.DatasetClient.dll
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\obj\Debug\net8.0\refint\Test.DatasetClient.dll
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\obj\Debug\net8.0\Test.DatasetClient.pdb
+C:\Projects\AlreadyMediaTest\Test.DatasetClient\obj\Debug\net8.0\ref\Test.DatasetClient.dll
